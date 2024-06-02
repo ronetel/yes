@@ -1,0 +1,4 @@
+﻿  dllmain.cpp
+  LINK : не найден или не выполнена сборка C:\Users\ronetel\source\repos\new 8gh\x64\Debug\SearchLIB.dll при последней инкрементной компоновке; выполняется полная компоновка
+     Создается библиотека C:\Users\ronetel\source\repos\new 8gh\x64\Debug\SearchLIB.lib и объект C:\Users\ronetel\source\repos\new 8gh\x64\Debug\SearchLIB.exp
+  SearchLIB.vcxproj -> C:\Users\ronetel\source\repos\new 8gh\x64\Debug\SearchLIB.dll
